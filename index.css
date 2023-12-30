@@ -1,0 +1,13 @@
+.bg-container {
+    background-color: #98d1d6;
+    background-size: cover;
+    height: 100vh;
+    border-radius: 40px;
+}
+
+.heading {
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+}
